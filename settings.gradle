@@ -1,0 +1,2 @@
+rootProject.name='Kanye Quotes'
+include ':app'
